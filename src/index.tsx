@@ -1,13 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorkerRegistration from './serviceWorkerRegistration';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import "rsuite/dist/rsuite.min.css";
+import App from "./App";
+import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
+import { CustomProvider } from "rsuite";
+import { HashRouter } from "react-router-dom";
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <CustomProvider theme="light">
+      <HashRouter>
+        <App />
+      </HashRouter>
+    </CustomProvider>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
 
 // If you want your app to work offline and load faster, you can change
