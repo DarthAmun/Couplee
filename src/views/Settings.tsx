@@ -11,7 +11,6 @@ import {
 import { FaFileExport } from "react-icons/fa";
 import { FileType } from "rsuite/esm/Uploader/Uploader";
 import { reciveAll, updateListsWith } from "../services/DatabaseService";
-import { WheelData } from "react-custom-roulette/dist/components/Wheel/types";
 import PriceList from "../types/PriceList";
 
 function Settings() {

@@ -2,7 +2,7 @@ import styled from "styled-components";
 import "./App.css";
 import { Nav, Navbar } from "rsuite";
 import { RiDashboard2Line } from "react-icons/ri";
-import { FaCogs, FaChartPie } from "react-icons/fa";
+import { FaCogs } from "react-icons/fa";
 import { Routes, Route, useNavigate } from "react-router-dom";
 import Dashboard from "./views/Dashboard";
 import Settings from "./views/Settings";

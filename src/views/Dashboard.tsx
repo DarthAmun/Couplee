@@ -36,7 +36,6 @@ function Dashboard() {
     setOpen(true);
   };
   const handleNewOpen = () => {
-    const today = new Date();
     handleOpen(new PriceList(0));
   };
   const handleSave = () => {
