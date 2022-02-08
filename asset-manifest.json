@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/Couplee/static/css/main.76aa9e5b.css",
-    "main.js": "/Couplee/static/js/main.e369b521.js",
+    "main.js": "/Couplee/static/js/main.e7587eb5.js",
     "service-worker.js": "/Couplee/service-worker.js",
+    "static/media/fortune-wheel.png": "/Couplee/static/media/fortune-wheel.97cc16df64a175772b8d.png",
     "index.html": "/Couplee/index.html",
     "main.76aa9e5b.css.map": "/Couplee/static/css/main.76aa9e5b.css.map",
-    "main.e369b521.js.map": "/Couplee/static/js/main.e369b521.js.map"
+    "main.e7587eb5.js.map": "/Couplee/static/js/main.e7587eb5.js.map"
   },
   "entrypoints": [
     "static/css/main.76aa9e5b.css",
-    "static/js/main.e369b521.js"
+    "static/js/main.e7587eb5.js"
   ]
 }
