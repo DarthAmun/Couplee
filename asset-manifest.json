@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Couplee/static/css/main.76aa9e5b.css",
+    "main.js": "/Couplee/static/js/main.c9c5aa22.js",
+    "service-worker.js": "/Couplee/service-worker.js",
+    "index.html": "/Couplee/index.html",
+    "main.76aa9e5b.css.map": "/Couplee/static/css/main.76aa9e5b.css.map",
+    "main.c9c5aa22.js.map": "/Couplee/static/js/main.c9c5aa22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aa9e5b.css",
+    "static/js/main.c9c5aa22.js"
+  ]
+}
